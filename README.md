@@ -52,4 +52,3 @@ on a Virtual Machine with ROS and Python.
 
 ---
 🤖 Built as a personal robotics project by **Elsayed Mohamed**
-؟
